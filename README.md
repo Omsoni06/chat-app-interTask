@@ -25,8 +25,8 @@ A modern, real-time chat application built with React, Node.js, Socket.io, and T
 ## 🖼️ Screenshots
 
 ### Login Screen
-![Login Screen](<img width="1365" height="695" alt="image" src="https://github.com/user-attachments/assets/b67f4d6a-d037-49a3-9bc8-a445a762d6c2" />
-)
+![Login Screen]<img width="1365" height="695" alt="image" src="https://github.com/user-attachments/assets/b67f4d6a-d037-49a3-9bc8-a445a762d6c2" />
+
 
 ### Chat Interface
 ![Chat Interface]<img width="1366" height="630" alt="image" src="https://github.com/user-attachments/assets/51fb7f04-2bc7-4648-8ee9-169259a07588" />
