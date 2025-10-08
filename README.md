@@ -29,8 +29,8 @@ A modern, real-time chat application built with React, Node.js, Socket.io, and T
 )
 
 ### Chat Interface
-![Chat Interface](<img width="1366" height="630" alt="image" src="https://github.com/user-attachments/assets/51fb7f04-2bc7-4648-8ee9-169259a07588" />
-)
+![Chat Interface]<img width="1366" height="630" alt="image" src="https://github.com/user-attachments/assets/51fb7f04-2bc7-4648-8ee9-169259a07588" />
+
 
 
 ## 🛠️ Tech Stack
