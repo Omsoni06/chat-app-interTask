@@ -30,8 +30,6 @@ A modern, real-time chat application built with React, Node.js, Socket.io, and T
 ### Chat Interface
 ![Chat Interface](https://via.placeholder.com/800x500/667eea/ffffff?text=Chat+Interface)
 
-### Mobile View
-![Mobile View](https://via.placeholder.com/400x800/667eea/ffffff?text=Mobile+View)
 
 ## 🛠️ Tech Stack
 
